@@ -1,0 +1,2 @@
+### Replace id-value-of-activity with real id value of activity
+GET http://localhost:8080/activities/{id-value-of-activity}
